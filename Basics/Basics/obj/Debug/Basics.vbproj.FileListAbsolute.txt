@@ -1,0 +1,4 @@
+C:\Users\CCLC\Documents\IdenBullock\Basics\Basics\obj\Debug\Basics.vbprojResolveAssemblyReference.cache
+C:\Users\CCLC\Documents\IdenBullock\Basics\Basics\obj\Debug\Basics.Form1.resources
+C:\Users\CCLC\Documents\IdenBullock\Basics\Basics\obj\Debug\Basics.Resources.resources
+C:\Users\CCLC\Documents\IdenBullock\Basics\Basics\obj\Debug\Basics.vbproj.GenerateResource.Cache

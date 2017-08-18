@@ -1,0 +1,11 @@
+C:\Users\CCLC\Documents\IdenBullock\Basics\Trivia_Game\Trivia_Game\bin\Debug\Trivia_Game.exe.config
+C:\Users\CCLC\Documents\IdenBullock\Basics\Trivia_Game\Trivia_Game\bin\Debug\Trivia_Game.exe
+C:\Users\CCLC\Documents\IdenBullock\Basics\Trivia_Game\Trivia_Game\bin\Debug\Trivia_Game.pdb
+C:\Users\CCLC\Documents\IdenBullock\Basics\Trivia_Game\Trivia_Game\bin\Debug\Trivia_Game.xml
+C:\Users\CCLC\Documents\IdenBullock\Basics\Trivia_Game\Trivia_Game\obj\Debug\Trivia_Game.vbprojResolveAssemblyReference.cache
+C:\Users\CCLC\Documents\IdenBullock\Basics\Trivia_Game\Trivia_Game\obj\Debug\Trivia_Game.Form1.resources
+C:\Users\CCLC\Documents\IdenBullock\Basics\Trivia_Game\Trivia_Game\obj\Debug\Trivia_Game.Resources.resources
+C:\Users\CCLC\Documents\IdenBullock\Basics\Trivia_Game\Trivia_Game\obj\Debug\Trivia_Game.vbproj.GenerateResource.Cache
+C:\Users\CCLC\Documents\IdenBullock\Basics\Trivia_Game\Trivia_Game\obj\Debug\Trivia_Game.exe
+C:\Users\CCLC\Documents\IdenBullock\Basics\Trivia_Game\Trivia_Game\obj\Debug\Trivia_Game.xml
+C:\Users\CCLC\Documents\IdenBullock\Basics\Trivia_Game\Trivia_Game\obj\Debug\Trivia_Game.pdb

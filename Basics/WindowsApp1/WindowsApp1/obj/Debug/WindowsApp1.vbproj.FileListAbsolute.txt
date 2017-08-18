@@ -1,0 +1,10 @@
+C:\Users\CCLC\Documents\IdenBullock\Basics\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\CCLC\Documents\IdenBullock\Basics\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\CCLC\Documents\IdenBullock\Basics\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\CCLC\Documents\IdenBullock\Basics\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\CCLC\Documents\IdenBullock\Basics\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\CCLC\Documents\IdenBullock\Basics\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\CCLC\Documents\IdenBullock\Basics\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\CCLC\Documents\IdenBullock\Basics\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\CCLC\Documents\IdenBullock\Basics\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\CCLC\Documents\IdenBullock\Basics\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb

@@ -1,0 +1,11 @@
+C:\Users\CCLC\Documents\IdenBullock\Basics\ForLoops\ForLoops\bin\Debug\ForLoops.exe.config
+C:\Users\CCLC\Documents\IdenBullock\Basics\ForLoops\ForLoops\bin\Debug\ForLoops.exe
+C:\Users\CCLC\Documents\IdenBullock\Basics\ForLoops\ForLoops\bin\Debug\ForLoops.pdb
+C:\Users\CCLC\Documents\IdenBullock\Basics\ForLoops\ForLoops\bin\Debug\ForLoops.xml
+C:\Users\CCLC\Documents\IdenBullock\Basics\ForLoops\ForLoops\obj\Debug\ForLoops.vbprojResolveAssemblyReference.cache
+C:\Users\CCLC\Documents\IdenBullock\Basics\ForLoops\ForLoops\obj\Debug\ForLoops.Form1.resources
+C:\Users\CCLC\Documents\IdenBullock\Basics\ForLoops\ForLoops\obj\Debug\ForLoops.Resources.resources
+C:\Users\CCLC\Documents\IdenBullock\Basics\ForLoops\ForLoops\obj\Debug\ForLoops.vbproj.GenerateResource.Cache
+C:\Users\CCLC\Documents\IdenBullock\Basics\ForLoops\ForLoops\obj\Debug\ForLoops.exe
+C:\Users\CCLC\Documents\IdenBullock\Basics\ForLoops\ForLoops\obj\Debug\ForLoops.xml
+C:\Users\CCLC\Documents\IdenBullock\Basics\ForLoops\ForLoops\obj\Debug\ForLoops.pdb
